@@ -4,7 +4,7 @@ var input = [
   { x: 8, y: 15 }
 ];
 var result = input.map(z => Math.sqrt(((z.x*z.x) + (z.y*z.y))));
-/* Your code here */
+
 
 
 console.log(result[0] === 5);
